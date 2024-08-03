@@ -1,4 +1,4 @@
-# ML-
+# ML With AWS
 My ML Learning Script
 
 
@@ -17,6 +17,5 @@ Module 4 – Machine Learning Tools and Services
 Simulation: Introduction to Jupyter notebook via Amazon Sagemaker
 Module 5 – Wrapping it up
 
-Module 6 – Final assessment
 
 
